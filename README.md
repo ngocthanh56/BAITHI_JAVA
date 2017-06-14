@@ -1,6 +1,8 @@
 # BAITHI_JAVA
 Phạm Ngọc Thạnh - MSSV: 56132314 - Lớp: 56TH2.
+
 Môn: Lập trình ứng dụng với java. Thầy: Mai Cường Thọ.
+
 Em chọn phương án thi là triển khai ứng dụng tại nhà.
 Nội dụng chính của đề tài là xây dựng một ứng dụng hữu ích dành cho các em nhỏ độ tuổi tầm 4 - 6 tuổi cách tính nhẩm nhanh những phép CỘNG. 
 Em sử dụng ứng dụng NetBean để xây dụng ứng dụng java này.
